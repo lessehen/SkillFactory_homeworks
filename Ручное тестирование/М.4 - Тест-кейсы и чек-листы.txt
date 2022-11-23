@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 Ссылка на файл с заданием и решением:
 https://docs.google.com/spreadsheets/d/1pXcXoAFy2frNgzJtGZo0FiTuVj4aivfHFAa91brc09Q/edit?usp=sharing
-=======
-Ссылка на файл с заданием и решением:
-https://docs.google.com/spreadsheets/d/1pXcXoAFy2frNgzJtGZo0FiTuVj4aivfHFAa91brc09Q/edit?usp=sharing
->>>>>>> 1e356bbc4b1bba53e92f0e71372bc8eaa5a67c7b
