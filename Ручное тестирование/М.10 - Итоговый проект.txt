@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Ссылка на файл с заданием и решением:
+=======
+Ссылка на файл с заданием и решением:
+>>>>>>> 1e356bbc4b1bba53e92f0e71372bc8eaa5a67c7b
 https://docs.google.com/spreadsheets/d/1aFDHJk12t4sT1VrhLhmKEggjRnBTP9Lv2yZk4N6KKIo/edit?usp=sharing
